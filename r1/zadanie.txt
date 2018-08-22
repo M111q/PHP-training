@@ -1,0 +1,16 @@
+▪ dodaj do naszego sklepu dodatkowy artykuł – buty,
+nadaj mu cenę netto i zmodyfikuj wyświetlanie, by pokazywane
+były cztery przedmioty,
+▪ stwórz formularz HTML, w którym wstawisz trzy
+pola tekstowe, które po wypełnieniu wyślesz do pliku .php;
+wyświetl wpisane teksty w różnych kombinacjach używając funkcji
+echo i operatora ” . „,
+▪ zmodyfikuj plik zamowienie.php, dodaj formularz,
+w którym będzie można podać kwotę, jaką się płaci za
+zamówione towary; kwota, wraz z wartością brutto w polu typu
+hidden, zostanie wysłana do kasa.php, w którym zostanie
+obliczona reszta, jaką należy wydać od zapłaconej kwoty;
+wskazówka: wykorzystaj funkcję echo w atrybucie value pola typu
+hidden, by przekazać wartość brutto zakupionych produktów.
+
+KURS PHP I MYSQL KURSPHP.COM
