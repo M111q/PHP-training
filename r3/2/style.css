@@ -1,0 +1,35 @@
+body{
+	background-color: #efefef;
+	font-family: Arial;
+}
+h1{
+    text-align: center;
+	color: #aaa;
+}
+p{
+	margin: 10px;
+	line-height: 150%;
+	font-size: 0.9em;
+}
+#container{
+	width: 30%;
+	margin: 10px auto 10px auto;
+	text-align: justify;
+}
+input{
+	text-align: center;
+	background-color: #ababab;
+	color: #eee;
+	font-weight: 700;
+	border: none;
+	padding: 10px 15px;
+	margin: 15px auto;
+	display: block;
+	border-radius: 5px;
+}
+input:hover{
+	background-color: #bcbcbc;
+}
+form{
+    text-align: center;
+}
